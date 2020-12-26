@@ -13,13 +13,13 @@
             <groupId>com.pro100kryto.server</groupId>
             <artifactId>Server</artifactId>
             <version>[0.1.0, 0.2.0)</version>
-            <scope>compile</scope>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>com.pro100kryto.server.utils</groupId>
             <artifactId>Datagram</artifactId>
             <version>1.0</version>
-            <scope>compile</scope>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 
